@@ -1,0 +1,2856 @@
+[
+  {
+    "id": "collection-32231257",
+    "title": "Navigation",
+    "folders": [
+      {
+        "id": "folder-c762193c",
+        "title": "My Media",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.unwatched"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.watchlist.movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.watchlist.series"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/logo/mymedia.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/icon_new/mymedia.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.unwatched"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.watchlist.movies"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.watchlist.series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/fanart/watchlist.png"
+      },
+      {
+        "id": "folder-928f54d2",
+        "title": "Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.latest_movies.mt0ep4ll"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.latest_movies_copy.mt0epkkg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.popular_movies_copy.mt0eqhq1"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.recommendations.movies"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/logo/movies.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/icon_new/movies.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.latest_movies.mt0ep4ll"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.latest_movies_copy.mt0epkkg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.popular_movies_copy.mt0eqhq1"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.recommendations.movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/fanart/movies.png"
+      },
+      {
+        "id": "folder-ca5ddd2c",
+        "title": "TV Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.latest_movies_copy.mt0eui89"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.latest_series_copy.mt0f427t"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.popular_series_copy.mt0f4yd5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.recommendations.shows"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/logo/tvshows.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/icon_new/tvshows.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.latest_movies_copy.mt0eui89"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.latest_series_copy.mt0f427t"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.popular_series_copy.mt0f4yd5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.recommendations.shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/fanart/tvshows.png"
+      },
+      {
+        "id": "folder-11c7d4e7",
+        "title": "Anime",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.latest_anime.mt0fcfpd"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.latest_anime_copy.mt0fcont"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.popular_anime_copy.mt0fd4pt"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/logo/anime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/icon_new/anime.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.latest_anime.mt0fcfpd"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.latest_anime_copy.mt0fcont"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.popular_anime_copy.mt0fd4pt"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/main_menu/fanart/anime.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-4acbe11c",
+    "title": "Streaming Services",
+    "folders": [
+      {
+        "id": "folder-da2c7f63",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.services_netflix_latest_releases.moj0iiz5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.services_netflix_latest_releases_copy.moj0iog8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.services_netflix_movies_top_rated_copy.moj0k7v4"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_latest_movies_copy.moj0nfdc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_top_rated_movies_copy.moj0ng6g"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_popular_movies_copy.moj0ngr4"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/netflix.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/netflix.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.services_netflix_latest_releases.moj0iiz5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.services_netflix_latest_releases_copy.moj0iog8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.services_netflix_movies_top_rated_copy.moj0k7v4"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_latest_movies_copy.moj0nfdc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_top_rated_movies_copy.moj0ng6g"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_popular_movies_copy.moj0ngr4"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/netflix.png"
+      },
+      {
+        "id": "59sg7m7r",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_latest_movies_copy.moj0t5k8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_top_rated_movies_copy.moj0t634"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.netflix_popular_movies_copy.moj0t6jc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.netflix_latest_series_copy.moj0t700"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.netflix_top_rated_series_copy.moj0t7gg"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.netflix_popular_series_copy.moj0t8go"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/disney.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/disney.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_latest_movies_copy.moj0t5k8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_top_rated_movies_copy.moj0t634"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.netflix_popular_movies_copy.moj0t6jc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.netflix_latest_series_copy.moj0t700"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.netflix_top_rated_series_copy.moj0t7gg"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.netflix_popular_series_copy.moj0t8go"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/disney.png"
+      },
+      {
+        "id": "g5g15yjg",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.disney_latest_movies_copy.moj1075s"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.disney_top_rated_movies_copy.moj107n4"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.disney_popular_movies_copy.moj10821"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.disney_latest_series_copy.moj108ig"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.disney_top_rated_series_copy.moj108y0"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.disney_popular_series_copy.moj109f4"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/prime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/prime.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.disney_latest_movies_copy.moj1075s"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.disney_top_rated_movies_copy.moj107n4"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.disney_popular_movies_copy.moj10821"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.disney_latest_series_copy.moj108ig"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.disney_top_rated_series_copy.moj108y0"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.disney_popular_series_copy.moj109f4"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/prime.png"
+      },
+      {
+        "id": "rdfcabej",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.prime_video_latest_movies_copy.moj1bv7c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.prime_video_top_rated_movies_copy.moj1bvn5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.prime_video_popular_movies_copy.moj1bw14"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.prime_video_latest_series_copy.moj1bwgg"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.prime_video_top_rated_series_copy.moj1bww8"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.prime_video_popular_series_copy.moj1bzv4"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/paramount.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/paramount.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.prime_video_latest_movies_copy.moj1bv7c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.prime_video_top_rated_movies_copy.moj1bvn5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.prime_video_popular_movies_copy.moj1bw14"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.prime_video_latest_series_copy.moj1bwgg"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.prime_video_top_rated_series_copy.moj1bww8"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.prime_video_popular_series_copy.moj1bzv4"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/paramount.png"
+      },
+      {
+        "id": "uenarbf9",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.paramount_latest_movies_copy.moj21qrc"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.paramount_top_rated_movies_copy.moj21rbk"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.paramount_popular_movies_copy.moj21rt4"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.paramount_latest_series_copy.moj21s8g"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.paramount_top_rated_series_copy.moj21sm8"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.paramount_popular_series_copy.moj21t60"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/appletv.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/appletv.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.paramount_latest_movies_copy.moj21qrc"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.paramount_top_rated_movies_copy.moj21rbk"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.paramount_popular_movies_copy.moj21rt4"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.paramount_latest_series_copy.moj21s8g"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.paramount_top_rated_series_copy.moj21sm8"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.paramount_popular_series_copy.moj21t60"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/appletv.png"
+      },
+      {
+        "id": "gh4d22wy",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.apple_tv_latest_series_copy.moj2q7tt"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.apple_tv_top_rated_series_copy.moj2q8a1"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.apple_tv_popular_series_copy.moj2q95k"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/crunchyroll.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/crunchyroll.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.apple_tv_latest_series_copy.moj2q7tt"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.apple_tv_top_rated_series_copy.moj2q8a1"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.apple_tv_popular_series_copy.moj2q95k"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/crunchyroll.png"
+      },
+      {
+        "id": "gh01tcss",
+        "title": "Hallmark",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.apple_tv_latest_movies_copy.moj36ozc"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3bps8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3bu1c"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/hallmark.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/hallmark.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.apple_tv_latest_movies_copy.moj36ozc"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3bps8"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3bu1c"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/hallmark.png"
+      },
+      {
+        "id": "00g3chmr",
+        "title": "BritBox",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3ezlc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.britbox_latest_series_copy.moj3k2rc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.britbox_latest_series_copy.moj3k388"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/logo/britbox.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/icon/britbox.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.hallmark_latest_movies_copy.moj3ezlc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.britbox_latest_series_copy.moj3k2rc"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.britbox_latest_series_copy.moj3k388"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/streaming/fanart/britbox.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-611aeb77",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "folder-4f63c513",
+        "title": "2020's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.top_rated_movies_2020_s.moitiagq"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2020_s_popular_movies.moitl5oh"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.2020_s_top_rated_series.moitq5m1"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.2020_s_popular_series.moitrd6i"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/2020s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/2020s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.top_rated_movies_2020_s.moitiagq"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.2020_s_popular_movies.moitl5oh"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.2020_s_top_rated_series.moitq5m1"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.2020_s_popular_series.moitrd6i"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/2020s.png"
+      },
+      {
+        "id": "folder-7e51a2a0e",
+        "title": "2010's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2020_s_top_rated_movies_copy.moium0t5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_top_rated_movies_copy.moiumw89"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2020_s_top_rated_series_copy.moiurmbl"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2020_s_popular_series_copy.moiurn0a"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/2010s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/2010s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2020_s_top_rated_movies_copy.moium0t5"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_top_rated_movies_copy.moiumw89"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2020_s_top_rated_series_copy.moiurmbl"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2020_s_popular_series_copy.moiurn0a"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/2010s.png"
+      },
+      {
+        "id": "folder-c1d7a293",
+        "title": "2000's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_top_rated_movies_copy.moiuuk3e"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_popular_movies_copy.moiuulfd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2010_s_top_rated_series_copy.moiuumjd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2010_s_popular_series_copy.moiuun1d"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/2000s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/2000s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_top_rated_movies_copy.moiuuk3e"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2010_s_popular_movies_copy.moiuulfd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2010_s_top_rated_series_copy.moiuumjd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2010_s_popular_series_copy.moiuun1d"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/2000s.png"
+      },
+      {
+        "id": "folder-7e2a49cf",
+        "title": "1990's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2000_s_top_rated_movies_copy.moiv74c2"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_2000_s_popular_movies_copy.moiv74tt"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2000_s_top_rated_series_copy.moiv75dd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_2000_s_popular_series_copy.moiv7629"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/1990s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/1990s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2000_s_top_rated_movies_copy.moiv74c2"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_2000_s_popular_movies_copy.moiv74tt"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2000_s_top_rated_series_copy.moiv75dd"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_2000_s_popular_series_copy.moiv7629"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/1990s.png"
+      },
+      {
+        "id": "folder-17249153",
+        "title": "1980's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1990_s_top_rated_movies_copy.moiv9rvt"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1990_s_popular_movies_copy.moiv9sgx"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1990_s_top_rated_series_copy.moiv9sv5"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1990_s_popular_series_copy.moiv9t8h"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/1980s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/1980s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1990_s_top_rated_movies_copy.moiv9rvt"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1990_s_popular_movies_copy.moiv9sgx"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1990_s_top_rated_series_copy.moiv9sv5"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1990_s_popular_series_copy.moiv9t8h"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/1980s.png"
+      },
+      {
+        "id": "folder-ed0d0929",
+        "title": "1970's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1980_s_top_rated_movies_copy.moivd1ld"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1980_s_popular_movies_copy.moivd209"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1980_s_top_rated_series_copy.moivd2e9"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1980_s_popular_series_copy.moivd2tt"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/1970s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/1970s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1980_s_top_rated_movies_copy.moivd1ld"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1980_s_popular_movies_copy.moivd209"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1980_s_top_rated_series_copy.moivd2e9"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1980_s_popular_series_copy.moivd2tt"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/1970s.png"
+      },
+      {
+        "id": "folder-3f65c532",
+        "title": "1960's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1970_s_top_rated_movies_copy.moiwrb6p"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades_1970_s_popular_movies_copy.moiwrbp5"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1970_s_top_rated_series_copy.moiwrc3d"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.decades_1970_s_popular_series_copy.moiwrcjl"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/logo/1960s.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/icon/1960s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1970_s_top_rated_movies_copy.moiwrb6p"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades_1970_s_popular_movies_copy.moiwrbp5"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1970_s_top_rated_series_copy.moiwrc3d"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.decades_1970_s_popular_series_copy.moiwrcjl"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/decades/fanart/1960s.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-14e31682",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "folder-caee1db6",
+        "title": "Action & Adventure",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08p806"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.action_adventure_latest_movies_copy.mt08r4hg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.action_adventure_latest_movies_copy.mt08r3p9"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.action_adventure_top_rated_series_copy.mt08rx1h"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.animation_top_rated_series_copy.mt08pel9"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.action_adventure_top_rated_series_copy.mt08rv2l"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/action.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/action.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08p806"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.action_adventure_latest_movies_copy.mt08r4hg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.action_adventure_latest_movies_copy.mt08r3p9"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.action_adventure_top_rated_series_copy.mt08rx1h"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.animation_top_rated_series_copy.mt08pel9"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.action_adventure_top_rated_series_copy.mt08rv2l"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/action.png"
+      },
+      {
+        "id": "folder-f9b6f203",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mt08kw11"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08n8d9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08n7f0"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mt08l1xg"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.animation_latest_series_copy.mt08n5y5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.animation_latest_series_copy.mt08n498"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/animation.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/animation.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mt08kw11"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08n8d9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.animation_latest_movies_copy.mt08n7f0"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mt08l1xg"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.animation_latest_series_copy.mt08n5y5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.animation_latest_series_copy.mt08n498"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/animation.png"
+      },
+      {
+        "id": "folder-d176c472",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.crime_latest_movies_copy.mszvz1uz"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mszw0n10"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mszw0lgz"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvz69w"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mszw2hqb"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mszw2f44"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/comedy.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/comedy.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.crime_latest_movies_copy.mszvz1uz"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mszw0n10"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.comedy_latest_movies_copy.mszw0lgz"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvz69w"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mszw2hqb"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.comedy_latest_series_copy.mszw2f44"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/comedy.png"
+      },
+      {
+        "id": "folder-893c0da4",
+        "title": "Crime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.documentary_latest_movies_copy.mszvk8c4"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.crime_latest_movies_copy.mszvqg17"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.crime_top_rated_movies_copy.mszvrplf"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.documentary_latest_series_copy.mszvlxmj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvv2nv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvuyi3"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/crime.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/crime.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.documentary_latest_movies_copy.mszvk8c4"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.crime_latest_movies_copy.mszvqg17"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.crime_top_rated_movies_copy.mszvrplf"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.documentary_latest_series_copy.mszvlxmj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvv2nv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.crime_latest_series_copy.mszvuyi3"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/crime.png"
+      },
+      {
+        "id": "folder-74369a8e",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.drama_latest_movies_copy.mpciavmu"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.drama_top_rated_movies_copy.mpciawa6"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.drama_popular_movies_copy.mpciawrq"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.drama_latest_series_copy.mpciax92"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.drama_top_rated_series_copy.mpciaxri"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.drama_popular_series_copy.mpciayha"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/documentary.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/documentary.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.drama_latest_movies_copy.mpciavmu"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.drama_top_rated_movies_copy.mpciawa6"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.drama_popular_movies_copy.mpciawrq"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.drama_latest_series_copy.mpciax92"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.drama_top_rated_series_copy.mpciaxri"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.drama_popular_series_copy.mpciayha"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/documentary.png"
+      },
+      {
+        "id": "folder-768909ba",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.family_latest_movies_copy.mp9uhzjj"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.family_top_rated_movies_copy.mp9ui05j"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.family_popular_movies_copy.mp9ui0s7"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.mp9ui1hj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.family_top_rated_series_copy.mp9ui273"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.family_popular_series_copy.mp9ui2yf"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/drama.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/drama.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.family_latest_movies_copy.mp9uhzjj"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.family_top_rated_movies_copy.mp9ui05j"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.family_popular_movies_copy.mp9ui0s7"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.mp9ui1hj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.family_top_rated_series_copy.mp9ui273"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.family_popular_series_copy.mp9ui2yf"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/drama.png"
+      },
+      {
+        "id": "folder-4eb5897b",
+        "title": "Family",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.history_latest_movies_copy.moo5bqma"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.history_top_rated_movies_copy.moo5brne"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.history_popular_movies_copy.moo5bszu"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy.moo5btr5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.moo5eu4x"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.moo5evfl"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/family.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/family.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.history_latest_movies_copy.moo5bqma"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.history_top_rated_movies_copy.moo5brne"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.history_popular_movies_copy.moo5bszu"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy.moo5btr5"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.moo5eu4x"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.family_latest_series_copy.moo5evfl"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/family.png"
+      },
+      {
+        "id": "folder-f5ae175d",
+        "title": "History",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.horror_latest_movies_copy.moo4d0kx"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.horror_top_rated_movies_copy.moo4d1a9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.horror_popular_movies_copy.moo4d215"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.moo4ep21"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy.moo4gu01"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy_copy.moo4guw1"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/history.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/history.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.horror_latest_movies_copy.moo4d0kx"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.horror_top_rated_movies_copy.moo4d1a9"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.horror_popular_movies_copy.moo4d215"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.moo4ep21"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy.moo4gu01"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.history_latest_series_copy_copy.moo4guw1"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/history.png"
+      },
+      {
+        "id": "folder-569de698",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.mystery_latest_movies_copy.mokax5ru"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.mystery_top_rated_movies_copy.mokax6dv"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.mystery_popular_movies_copy.mokax6wp"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.mystery_latest_series_copy.mokax7fv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.mokb0p2i"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.mokb0pyq"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/horror.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/horror.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.mystery_latest_movies_copy.mokax5ru"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.mystery_top_rated_movies_copy.mokax6dv"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.mystery_popular_movies_copy.mokax6wp"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.mystery_latest_series_copy.mokax7fv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.mokb0p2i"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.horror_latest_series_copy.mokb0pyq"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/horror.png"
+      },
+      {
+        "id": "folder-2857560c",
+        "title": "Mystery",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mok2litn"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_top_rated_movies_copy.mok2ljar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_popular_movies_copy.mok2ljpn"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mok2lk63"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_top_rated_series_copy.mok2lkoj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_popular_series_copy.mok2lldn"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/mystery.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/mystery.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mok2litn"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_top_rated_movies_copy.mok2ljar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_popular_movies_copy.mok2ljpn"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mok2lk63"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_top_rated_series_copy.mok2lkoj"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_popular_series_copy.mok2lldn"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/mystery.png"
+      },
+      {
+        "id": "folder-0b73cb73",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mok1p5xv"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_top_rated_movies_copy.mok1p6q2"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_popular_movies_copy.mok1p7ab"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mok1p7s3"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.romance_latest_series_copy.mok1t68z"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.romance_latest_series_copy.mok1t6wb"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/romance.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/romance.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mok1p5xv"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_top_rated_movies_copy.mok1p6q2"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_popular_movies_copy.mok1p7ab"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mok1p7s3"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.romance_latest_series_copy.mok1t68z"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.romance_latest_series_copy.mok1t6wb"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/romance.png"
+      },
+      {
+        "id": "folder-2899c7d6",
+        "title": "Sci-Fi & Fantasy",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.thriller_latest_movies_copy.mojxbzid"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxd5jg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxd638"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxecab"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mojxfx97"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy_copy.mojxfy2r"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/scifi.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/scifi.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.thriller_latest_movies_copy.mojxbzid"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxd5jg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxd638"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.sci_fi_fantasy_latest_movies_copy.mojxecab"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy.mojxfx97"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.sci_fi_fantasy_latest_series_copy_copy.mojxfy2r"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/scifi.png"
+      },
+      {
+        "id": "folder-a2f85592",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_latest_movies_copy.mojrqlac"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_top_rated_movies_copy.mojrqlrw"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_popular_movies_copy.mojrqmcc"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.war_latest_series_copy.mojrqmu4"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.thriller_latest_series_copy.mojru2dh"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.thriller_latest_series_copy.mojru3cc"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/thriller.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/thriller.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_latest_movies_copy.mojrqlac"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_top_rated_movies_copy.mojrqlrw"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_popular_movies_copy.mojrqmcc"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.war_latest_series_copy.mojrqmu4"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.thriller_latest_series_copy.mojru2dh"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.thriller_latest_series_copy.mojru3cc"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/thriller.png"
+      },
+      {
+        "id": "folder-594ea9d5",
+        "title": "TV Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_latest_movies_copy.moj5oaqg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_top_rated_movies_copy.moj5obmg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.war_popular_movies_copy.moj5ocif"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/tvmovies.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/tvmovies.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_latest_movies_copy.moj5oaqg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_top_rated_movies_copy.moj5obmg"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.war_popular_movies_copy.moj5ocif"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/tvmovies.png"
+      },
+      {
+        "id": "folder-db91f94f",
+        "title": "War",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj507og"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_top_rated_movies_copy.moj5087s"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_popular_movies_copy.moj508q8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.western_latest_series_copy.moj5097s"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.western_top_rated_series_copy.moj509pc"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.western_popular_series_copy.moj50a6w"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/war.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/war.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj507og"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_top_rated_movies_copy.moj5087s"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_popular_movies_copy.moj508q8"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.western_latest_series_copy.moj5097s"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.western_top_rated_series_copy.moj509pc"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.western_popular_series_copy.moj50a6w"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/war.png"
+      },
+      {
+        "id": "folder-1ca832a3",
+        "title": "Western",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_latest_movies.moj4kjz4"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj4kphc"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_top_rated_movies_copy.moj4lasv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj4mf6n"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.western_latest_series_copy.moj4nnio"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.western_top_rated_series_copy.moj4pv0f"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/logo/western.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/icon/western.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_latest_movies.moj4kjz4"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj4kphc"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_top_rated_movies_copy.moj4lasv"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.western_latest_movies_copy.moj4mf6n"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.western_latest_series_copy.moj4nnio"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.western_top_rated_series_copy.moj4pv0f"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/RayW1986/ntv-assets/refs/heads/main/collections/genres/fanart/western.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": false,
+    "backdropImageUrl": "",
+    "focusGlowEnabled": false
+  }
+]
